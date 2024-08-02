@@ -1,0 +1,21 @@
+
+1:Extention
+
+ES7 React/Redux/GraphQL/React-Native Snippets -> sugesstion => rafc , rafce
+
+2: daisyUI 
+   Tailwind CSS  ki ya ak library ha jha humya bna bnya components milta ha
+   a) navbar b) search bar c) input email d) card e) model component liya login pa click krna pa form samna aya is functionlity k liya 
+3: freepik.com  is website sa piks li
+
+4: react slick slider website sa slider liya
+
+
+scale => card upar
+grid grid-cols-2
+
+functionality
+
+a) sticky navbar
+b) array filter
+c) dark light theme

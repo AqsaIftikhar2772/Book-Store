@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name": "Story book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":2,
+        "name": "drama book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 10,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":3,
+        "name": "music book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":4,
+        "name": "sports book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":5,
+        "name": "novel book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":6,
+        "name": "history book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":7,
+        "name": "English book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":8,
+        "name": "urdu book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    },
+    {
+        "id":9,
+        "name": "food book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?t=st=1719058137~exp=1719061737~hmac=569d52da9323873f26448309a8f2a912aaef9cd89dc0b5ffe0b8b44ec1404055&w=996"
+    }
+]
